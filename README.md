@@ -39,11 +39,23 @@ Atualmente focado em projetos com **Java (Spring Boot)**, **Angular**, **Node.js
 
 ## 🌍 Contato e Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/-Daniel%20Goes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-goes-a856a4361/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dn-goes)  
-[![Gmail](https://img.shields.io/badge/-danielgoesrosa07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielgoesrosa07@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dn_goes07/)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519993426057)
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-goes-a856a4361/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dn-goes">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:danielgoesrosa07@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dn_goes07/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5519993426057">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
