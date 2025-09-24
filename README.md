@@ -30,6 +30,18 @@ Atualmente focado em projetos com **Java (Spring Boot)**, **Angular**, **Node.js
 
 ---
 
+## 📜 Certificações
+
+- [📘 Competência Transversal – Segurança no Trabalho (14h, SENAI)](./certificados/seguranca_trabalho.pdf)  
+- [🛡️ Privacidade e Proteção de Dados (LGPD) (4h, SENAI)](./certificados/lgpd.pdf)  
+- [♻️ Economia Circular (20h, SENAI)](./certificados/economia_circular.pdf)  
+- [📡 Desvendando o 5G (15h, SENAI)](./certificados/5g.pdf)  
+- [⚡ Especialista em Performance / Testes de Carga e Estresse (SENAI)](./certificados/performance.pdf)  
+
+> 📌 Todos os certificados emitidos pelo **SENAI-SP**.  
+
+---
+
 ## 📈 Estatísticas GitHub
 
 <p align="left">
